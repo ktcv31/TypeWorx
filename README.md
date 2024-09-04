@@ -50,4 +50,7 @@ The application is deployed to Render. You can access the live application at th
 
 - Screenshot:
 
-    ![Alt text]("./Screenshot 2024-09-03 at 10.08.17 PM.png")
+    ![Alt text](./Screenshot%202024-09-03%20at%2010.08.17%20PM.png)
+
+
+
